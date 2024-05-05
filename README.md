@@ -1,5 +1,7 @@
 # Pipoyuki's Puppy Pack
 
+![PipoyukisPuppyPack_Image](https://github.com/HanaHirose/Pipoyuki-Puppy-Pack/tree/main/Images)
+
 ## Description
 "Pipoyuki's Puppy Pac" is my first venture into game design, inspired by the beloved 2001 game Pikmin from Nintendo. This action-packed nurturing game allows players to lead a pack of puppies through vast fields, encounter challenges, and build deep bonds during shared adventures. The main character, Pipoyuki, is inspired by my own cherished pet and captures the essence of companionship and adventure. With this project, I aim to merge pet simulation with dynamic exploration and interaction, creating a unique experience that goes beyond traditional pet games. The game is currently in its early stages of development.
 

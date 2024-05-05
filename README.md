@@ -27,7 +27,7 @@ Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=QCrddES0h
 - C#
 
 ## C# Scripts Location
-The C# code for this project is located in the `Scripts` folder within the `Assets` directory.7878879879879
+The C# code for this project is located in the `Scripts` folder within the `Assets` directory.
 
 ## Contribution
 This project is developed as a personal hobby and is not open for contributions.
